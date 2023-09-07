@@ -1,4 +1,4 @@
-# [Vampire The Masquerade : Chapters Companion](https://orionaskatu.github.io/vtmchapterscompanion/)
+# [Vampire: The Masquerade - CHAPTERS Companion App](https://orionaskatu.github.io/vtmchapterscompanion/)
 
 
 
